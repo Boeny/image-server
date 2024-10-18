@@ -1,7 +1,7 @@
 {
   "name": "img-server",
   "version": "1.0.0",
-  "description": "simple server for image upload",
+  "description": "simple server for upload images",
   "main": "index.js",
   "type": "module",
   "scripts": {
